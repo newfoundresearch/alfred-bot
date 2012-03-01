@@ -1,1 +1,1 @@
-app: bin/hubot -a irc -n grovebot
+app: bin/hubot -a irc -n nfrbot
