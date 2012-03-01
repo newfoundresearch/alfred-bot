@@ -1,1 +1,1 @@
-app: bin/hubot -a irc -n nfrbot
+app: bin/hubot -a irc -n alfred-bot
