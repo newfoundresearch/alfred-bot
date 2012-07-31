@@ -92,8 +92,6 @@ Where `<adapter>` is the name of your adapter without the `hubot-` prefix.
 
 [hubot-wiki]: https://github.com/github/hubot/wiki
 
-touch to force update
-
 ## hubot-scripts
 
 There will inevitably be functionality that everyone will want. Instead

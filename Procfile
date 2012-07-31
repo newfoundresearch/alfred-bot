@@ -1,1 +1,1 @@
-app: bin/hubot -a irc -n alfred-bot
+web: bin/hubot -a campfire -n Hubot
